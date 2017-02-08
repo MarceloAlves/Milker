@@ -1,5 +1,5 @@
-require "Milker/version"
+require "milker/version"
+require "milker/lol/lol"
 
 module Milker
-  # Your code goes here...
 end
