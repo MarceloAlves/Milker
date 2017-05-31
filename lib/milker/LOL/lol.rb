@@ -1,5 +1,3 @@
-require 'httparty'
-
 module Milker
   class LOL
     include HTTParty
